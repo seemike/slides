@@ -1,11 +1,18 @@
 ---
 marp: true
-title: Marp CLI example
+title: Mikes slides 
 description: Hosting Marp slide deck on the web
 theme: uncover
 paginate: true
 _paginate: false
 ---
+
+---
+
+# Great!
+
+---
+
 
 ![bg](./assets/gradient.jpg)
 
