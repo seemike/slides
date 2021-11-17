@@ -34,7 +34,7 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![Marp bg 60%](./assets/gradient.jpg)
+![Marp bg 60%](./assets/siobra_Logo_Version_1.png)
 
 ---
 
