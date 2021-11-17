@@ -10,7 +10,7 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# Great!
+## Great!
 
 ---
 
