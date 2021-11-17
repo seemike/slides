@@ -7,9 +7,17 @@ paginate: true
 _paginate: false
 ---
 
+![bg left:40% 80%](https://marp.app/assets/marp.svg)
+
 ---
 
 # Great!
+
+---
+
+# Howtos
+
+- https://speakerdeck.com/yhatt/marp-basic-example?slide=19
 
 ---
 
