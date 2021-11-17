@@ -8,7 +8,7 @@ _paginate: false
 ---
 
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
+![bg](./assets/gradient.jpg)
 
 # Great!
 
@@ -21,7 +21,6 @@ _paginate: false
 ---
 
 
-![bg](./assets/gradient.jpg)
 
 # <!--fit--> Marp CLI example
 
