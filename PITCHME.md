@@ -34,7 +34,7 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![Marp bg 60%](./assets/gradient.jpg)
 
 ---
 
