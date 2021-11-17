@@ -7,9 +7,8 @@ paginate: true
 _paginate: false
 ---
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
 
----
+![bg left:40% 80%](https://marp.app/assets/marp.svg)
 
 # Great!
 
