@@ -10,8 +10,7 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-## Great!
-
+## Seemike Slides 
 ---
 
 # Howtos
